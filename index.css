@@ -66,6 +66,10 @@ body {
   background-color: aqua;
 }
 
+.earth:hover {
+  background-image: url("globe.jpg");
+}
+
 .moon::before {
   top: 0.8em;
   right: 0.2em;
