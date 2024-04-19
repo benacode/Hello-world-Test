@@ -6,3 +6,7 @@
 .earth {
   background-color: aqua;
 }
+ 
+.moon{
+    min-height: auto;
+}
