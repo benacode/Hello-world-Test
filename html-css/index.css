@@ -4,7 +4,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: black;
+  background-color: rgb(15, 15, 15);
   overflow: hidden;
 }
 
@@ -55,7 +55,7 @@ body {
 .moon::before {
   content: '';
   position: absolute;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .earth::before {
@@ -64,10 +64,6 @@ body {
   width: 3em;
   height: 3em;
   background-color: aqua;
-}
-
-.earth:hover {
-  background-image: url("globe.jpg");
 }
 
 .moon::before {
