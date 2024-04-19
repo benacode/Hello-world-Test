@@ -4,7 +4,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(15, 15, 15);
+  background-color: rgb(223, 219, 219);
   overflow: hidden;
 }
 
@@ -24,6 +24,10 @@ body {
   background-color: yellow;
   border-radius: 50%;
   box-shadow: 0 0 3em white;
+}
+
+.earth:hover {
+  background-color: rgb(73, 34, 163);
 }
 
 .earth,
@@ -56,10 +60,6 @@ body {
   content: '';
   position: absolute;
   border-radius: 100%;
-}
-
-.earth:hover {
-  background-color: rgb(255, 174, 0);
 }
 
 .earth::before {
