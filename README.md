@@ -53,8 +53,8 @@ The repository also contains files for setting up linters and validators.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
+- <a href="[#readme-top](https://benacode.github.io/Hello-world-Test/index.html)">Hello World Live</a>
 
-- Not deployed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
